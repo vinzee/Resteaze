@@ -5,6 +5,7 @@ Technology Development Corporation (Maryland Innovations Initiative)
 ------------------------------------------------------------------------------
 https://www.csee.umbc.edu/~nilanb/sponsors.html
 http://tejasbhalerao.com/sid/resteaze.html
+http://bl.ocks.org/dk8996/5449641
 ------------------------------------------------------------------------------
 I believe this figdata file has all the necessary information to construct the graph in the pdf. In that file, there are three vectors: restlessness, plm and sleep position. These are all the same length (numIntervals) and each element represents the same time interval (Interval Size = 1 minute in this case). Also included is the start of recording time (iso8601) and sleep start and stop (in minutes since start of recording).
 
